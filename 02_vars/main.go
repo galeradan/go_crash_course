@@ -10,8 +10,9 @@ func main() {
 	const isCool = true
 
 	// shorthand
-	last_name := "Galera"
+	lastName := "Galera"
+	size := 1.3
 
-	fmt.Println(name, age, isCool, last_name)
-	fmt.Printf("%T\n", isCool)
+	fmt.Println(name, age, isCool, lastName, size)
+	fmt.Printf("%T\n", size)
 }
