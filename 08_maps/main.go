@@ -11,7 +11,7 @@ func main() {
 	// emails["Sharon"] = "sharon@gmail.com"
 	// emails["Mike"] = "mike@gmail.com"
 
-	// Decalre map and add key value
+	// Declare map and add key value
 	emails := map[string]string{"Bob": "bob@gmail.com", "Sharon": "sharon@gmail.com"}
 
 	emails["Mike"] = "mike@gmail.com"
